@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Muhammad Awais Hashmi</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate <b>Computer Science Student</b> from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awais4212&label=Profile%20views&color=0e75b6&style=flat" alt="awais4212" /> </p>
 
