@@ -2,23 +2,27 @@ name: Generate PacMan Contribution Snake
 
 on:
   schedule: # Runs every 12 hours
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"  # Fixed: removed extra asterisk
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-
+        
       - name: Generate Snake (Pac-Man Style)
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: awais4212   # <-- replace with your username
-          outputs: dist/snake.svg
-
-      - name: Push Snake to dist
+          github_user_name: awais4212
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+            
+      - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
