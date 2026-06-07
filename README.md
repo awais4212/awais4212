@@ -4,7 +4,7 @@
 
 ### 🚀 A passionate Computer Science Student from Pakistan 🇵🇰
 
-**`Full Stack Developer | MERN Stack | Always Learning 🌱`**
+**`Full Stack Developer | MERN Stack | Data Science & AI | Always Learning 🌱`**
 
 <br/>
 
@@ -17,9 +17,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I'm currently working on **Web Development**
-- 🌱 I'm currently learning **Flutter**
-- 💬 Ask me about **MongoDB, React, Express and Node**
+- 🔭 I'm currently working on **an AI-powered Medical Imaging FYP using Deep Learning**
+- 🌱 I'm currently learning **Data Science, Machine Learning & NLP**
+- 🎓 CS Student at **Iqra University, Karachi**
+- 💬 Ask me about **MongoDB, React, Express, Node, Pandas, NumPy**
 - 📫 How to reach me: **awaisalihashmi@gmail.com**
 - ⚡ Fun fact: **I can spend hours coding, but still forget to put a semicolon ; at the end!**
 
@@ -44,17 +45,30 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### 🖥️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 📊 Data Science & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 🧰 Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -63,7 +77,19 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🔬 **Medical Imaging AI** | AI-powered image classification & segmentation FYP | Python, FastAPI, Next.js, Deep Learning |
+| 🧠 **Brain Tumor Detection** | MRI scan classification with EfficientNet | Python, FastAPI, Next.js, MongoDB |
+| ☕ **Get Me a Chai** | Crowdfunding platform with GitHub OAuth & payments | Next.js, MongoDB, Razorpay |
+| 🔗 **ZIP URL** | URL shortener with analytics | Next.js, MongoDB Atlas, Vercel |
+| 🔐 **Passify** | Secure password manager | React, Node.js, Express, Railway |
 
 ---
 
