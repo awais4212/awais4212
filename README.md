@@ -1,10 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Syed Muhammad Awais Hashmi
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Syed%20Muhammad%20Awais%20Hashmi&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Passionate%20Computer%20Science%20Student%20from%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=52&descSize=18)
 
-### 🚀 A passionate Computer Science Student from Pakistan 🇵🇰
-
-**`Full Stack Developer | MERN Stack | Data Science & AI | Always Learning 🌱`**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8129D9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Data+Science+%26+AI+Explorer;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
 
 <br/>
 
@@ -117,8 +115,6 @@
 </div>
 
 ---
-
-
 
 ## Contribution Pac-Man
 
