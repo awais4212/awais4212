@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Syed%20Muhammad%20Awais%20Hashmi&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Passionate%20Computer%20Science%20Student%20from%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=52&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:FFFFFF,70:007A3D,100:CE1126&height=200&section=header&text=Syed%20Muhammad%20Awais%20Hashmi&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Passionate%20Computer%20Science%20Student%20from%20Pakistan&descAlignY=52&descSize=18)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8129D9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Data+Science+%26+AI+Explorer;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
 
